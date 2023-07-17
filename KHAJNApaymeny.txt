@@ -1,0 +1,4 @@
+GRIPS Payment ID: 130720232012627771
+
+Government Reference Number (GRN) for individual payments within transaction:
+192023240126277725
